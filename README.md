@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About me
 📚 I studies Computer Science at UTM <br>
-🌸 I’m a passionate and love to learn new things <br>
+🌸 I’m passionate and love to learn new things <br>
 🌱 I’m currently learning the fundamental knowledge of Computer Science <br>
 💬 Ask me about anything that you are curious about <br>
 ⚡ I love reading and gardening 
