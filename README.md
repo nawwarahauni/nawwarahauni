@@ -1,6 +1,6 @@
-![Panda](https://media.istockphoto.com/id/1195743934/vector/cute-panda-character-vector-design.jpg?s=612x612&w=0&k=20&c=J3ht-bKADmsXvF6gFIleRtfJ6NGhXnfIsrwlsUF8w80=) <br>
+![image](https://github.com/nawwarahauni/nawwarahauni/assets/148327549/088b8227-aa86-488a-871c-5dfd843a2500)<br>
 # Hi there, I'm Nawwarah ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-[![](https://visitcount.itsvg.in/api?id=nawwarahauni&icon=9&color=1)](https://visitcount.itsvg.in)
+[![profile count](https://visitcount.itsvg.in/api?id=nawwarahauni&icon=9&color=1)](https://visitcount.itsvg.in)
 
 
 ## 👩‍💻 About me
@@ -17,10 +17,6 @@
 
 ## 💻 Projects
 
-## 📊 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=nawwarahauni&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nawwarahauni&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nawwarahauni&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
 
