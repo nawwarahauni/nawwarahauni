@@ -12,8 +12,8 @@
 📚 I studies Computer Science at UTM <br>
 🌸 I’m passionate and love to learn new things <br>
 🌱 I’m currently learning C++ and HTML <br>
-💬 I'm interested in creating and hosting a website
-⚡ I love reading and gardening 
+💬 I'm interested in creating and hosting a website <br/>
+⚡ I love reading in my free time 
 
 ## ⚙ Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
