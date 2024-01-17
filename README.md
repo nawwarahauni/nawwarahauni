@@ -4,20 +4,15 @@
 
 # Hi there, I'm Nawwarah ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br/>
 ### You can find me at:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nawwarah-auni-nazrudin-262895299/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="nawwarahauni@graduate.utm.my">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-hongpeigeok-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nawwarah-auni-nazrudin-262895299/) 
+<a href="mailto:peigeok0726@gmail.com">
+<img src="https://img.shields.io/badge/nawwarahauni@graduate.utm.my-D14836?style=flat&logo=gmail&logoColor=white">
 
 ## 👩‍💻 About me
 📚 I studies Computer Science at UTM <br>
 🌸 I’m passionate and love to learn new things <br>
-🌱 I’m currently learning the C++ and HTML <br>
-💬 Ask me about anything that you are curious about <br>
+🌱 I’m currently learning C++ and HTML <br>
+💬 I'm interested in creating and hosting a website
 ⚡ I love reading and gardening 
 
 ## ⚙ Skills
