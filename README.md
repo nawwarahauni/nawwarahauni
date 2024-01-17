@@ -15,6 +15,18 @@
 💬 I'm interested in creating and hosting a website <br/>
 ⚡ I love reading in my free time 
 
+## :books: Education
+(2011 - 2016) Sekolah Rendah Agama Integrasi Seksyen 19 | UPSR: 5A 1B <br/>
+(2017 - 2021) Sekolah Rendah Agama Integrasi Seksyen 19 | SPM: 11A <br/>
+(2022 - 2023) Kolej Matrikulasi Kedah | CGPA: 4.00, MUET: 4.5 <br/>
+(2023 - Present) Univesiti Teknologi Malaysia <br/>
+
+## :woman_teacher: Position
+- Treasurer in Badminton Club (2019)
+- Book Prefect in High School (2019 - 2020)
+- Secretary in Islamic Education Club (2022)
+- Treasurer in Computer Science Club (2023)
+
 ## ⚙ Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
