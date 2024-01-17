@@ -17,8 +17,14 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🏆 Courses and certificates
+[BACHELOR OF COMPUTER SCIENCE (DATA ENGINEERING)](https://github.com/nawwarahauni/SEMESTER_1)
 
 ## 💻 Projects
+- [BMR Calculator](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Assignment%202%20set%201.cpp)
+- [Monthly Installment Calculator](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Assignment%202%20set%202.cpp)
+- [COVID 19 Statistic Analyzer](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Exercise%202%20Function.cpp)
+- [Temperature Converter and Analyzer](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Exercise%203%20Input%20Output.cpp)
+
 
 
 
