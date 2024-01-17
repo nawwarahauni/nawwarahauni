@@ -1,4 +1,7 @@
-![image](https://github.com/nawwarahauni/nawwarahauni/assets/148327549/088b8227-aa86-488a-871c-5dfd843a2500)<br>
+<p align = "center" > 
+     <img src="https://github.com/nawwarahauni/nawwarahauni/assets/148327549/92f77b93-3945-4135-b681-915e7b8c9b09" height="10% width="10%" alt="Panda"/>
+</p><br/>
+
 # Hi there, I'm Nawwarah ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 [![profile count](https://visitcount.itsvg.in/api?id=nawwarahauni&icon=9&color=1)](https://visitcount.itsvg.in)
 
