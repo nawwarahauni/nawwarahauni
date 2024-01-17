@@ -4,7 +4,7 @@
 
 # Hi there, I'm Nawwarah ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br/>
 ### You can find me at:
-[![Linkedin Badge](https://img.shields.io/badge/-hongpeigeok-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nawwarah-auni-nazrudin-262895299/) 
+[![Linkedin Badge](https://img.shields.io/badge/-nawwarahauni-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nawwarah-auni-nazrudin-262895299/) 
 <a href="mailto:peigeok0726@gmail.com">
 <img src="https://img.shields.io/badge/nawwarahauni@graduate.utm.my-D14836?style=flat&logo=gmail&logoColor=white">
 
