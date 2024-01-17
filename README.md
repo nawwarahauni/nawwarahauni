@@ -3,8 +3,15 @@
 </p><br/>
 
 # Hi there, I'm Nawwarah ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br/>
-![profile count](https://visitcount.itsvg.in/api?id=nawwarahauni&icon=9&color=1)](https://visitcount.itsvg.in)
-
+### You can find me at:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nawwarah-auni-nazrudin-262895299/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="nawwarahauni@graduate.utm.my">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 ## 👩‍💻 About me
 📚 I studies Computer Science at UTM <br>
@@ -17,7 +24,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🏆 Courses and certificates
-[BACHELOR OF COMPUTER SCIENCE (DATA ENGINEERING)](https://github.com/nawwarahauni/SEMESTER_1)
+[BACHELOR OF COMPUTER SCIENCE (DATA ENGINEERING) WITH HONOURS](https://github.com/nawwarahauni/SEMESTER_1)
 
 ## 💻 Projects
 - [BMR Calculator](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Assignment%202%20set%201.cpp)
