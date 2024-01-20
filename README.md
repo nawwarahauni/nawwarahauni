@@ -19,7 +19,7 @@
 - (2011 - 2016) Sekolah Rendah Agama Integrasi Seksyen 19 | UPSR: 5A 1B <br/>
 - (2017 - 2021) Maahad Integrasi Tahfiz Sains Banting | SPM: 11A <br/>
 - (2022 - 2023) Kolej Matrikulasi Kedah | CGPA: 4.00, MUET: 4.5 <br/>
-- (2023 - Present) Univesiti Teknologi Malaysia <br/>
+- (2023 - Present) Univesiti Teknologi Malaysia - [BACHELOR OF COMPUTER SCIENCE (DATA ENGINEERING) WITH HONOURS](https://github.com/nawwarahauni/SEMESTER_1) <br/>
 
 ## :woman_teacher: Position
 - Treasurer in Badminton Club (2019)
@@ -31,8 +31,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🏆 Courses and certificates
-[BACHELOR OF COMPUTER SCIENCE (DATA ENGINEERING) WITH HONOURS](https://github.com/nawwarahauni/SEMESTER_1)
-
+[SECP1513 - Technology & Information Systems](https://github.com/nawwarahauni/SEMESTER_1/tree/main/Technology%20%26%20Information%20Systems)<br>
+[SECJ1013 - Programming Technique I](https://github.com/nawwarahauni/SEMESTER_1/tree/main/Programming%20Technique%20I)<br>
+[SECI1013 - Discrete Structure](https://github.com/nawwarahauni/SEMESTER_1/tree/main/Discrete%20Structure)<br>
+[SECR1013 - Digital Logic](https://github.com/nawwarahauni/SEMESTER_1/tree/main/Digital%20Logic)<br>
 ## 💻 Projects
 - [BMR Calculator](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Assignment%202%20set%201.cpp)
 - [Monthly Installment Calculator](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Assignment%202%20set%202.cpp)
