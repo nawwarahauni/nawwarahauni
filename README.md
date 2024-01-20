@@ -36,10 +36,10 @@
 [SECI1013 - Discrete Structure](https://github.com/nawwarahauni/SEMESTER_1/tree/main/Discrete%20Structure)<br>
 [SECR1013 - Digital Logic](https://github.com/nawwarahauni/SEMESTER_1/tree/main/Digital%20Logic)<br>
 ## 💻 Projects
-- [BMR Calculator](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Assignment%202%20set%201.cpp)
-- [Monthly Installment Calculator](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Assignment%202%20set%202.cpp)
-- [COVID 19 Statistic Analyzer](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Exercise%202%20Function.cpp)
-- [Temperature Converter and Analyzer](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Programming%20Technique%20I/Exercise%203%20Input%20Output.cpp)
+- [BMR Calculator](https://github.com/nawwarahauni/SEMESTER_1/blob/main/Programming%20Technique%20I/Coursework/Assignment%202%20set%201.cpp)
+- [Monthly Installment Calculator](https://github.com/nawwarahauni/SEMESTER_1/blob/main/Programming%20Technique%20I/Coursework/Assignment%202%20set%202.cpp)
+- [COVID 19 Statistic Analyzer](https://github.com/nawwarahauni/SEMESTER_1/blob/main/Programming%20Technique%20I/Coursework/Exercise%202%20Function.cpp)
+- [Temperature Converter and Analyzer](https://github.com/nawwarahauni/SEMESTER_1/blob/main/Programming%20Technique%20I/Coursework/Exercise%203%20Input%20Output.cpp)
 - [Design Thinking - WATCH.COM](https://github.com/nawwarahauni/SEMESTER_1/blob/main/Technology%20%26%20Information%20Systems/Design%20Thinking%20Report%20(Computer%20Hardware)%20-%20Group%207.pdf)
 
 
