@@ -6,10 +6,9 @@
 ### You can find me at:
 [![Linkedin Badge](https://img.shields.io/badge/-nawwarahauni-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nawwarah-auni-nazrudin-262895299/) 
 <a href="https://nawwarahauni.github.io/">
-    <img src="https://img.shields.io/badge/-ePortfolio-yellowgreen?style=for-the-badge"/>
-  </a>
+   <img src="https://img.shields.io/badge/-ePortfolio-yellowgreen?style=flat&logoColor=white&labelColor=#0000FF"></a>
 <a href="mailto:nawwarahauni@graduate.utm.my">
-<img src="https://img.shields.io/badge/nawwarahauni@graduate.utm.my-D14836?style=flat&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/nawwarahauni@graduate.utm.my-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
 ## 👩‍💻 About me
 📚 I studies Computer Science at UTM <br>
