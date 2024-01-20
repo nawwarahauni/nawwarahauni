@@ -19,7 +19,7 @@
 
 ## :books: Education
 - (2011 - 2016) Sekolah Rendah Agama Integrasi Seksyen 19 | UPSR: 5A 1B <br/>
-- (2017 - 2021) Maahad Integrasi Tahfiz Sains Banting | SPM: 11A <br/>
+- (2017 - 2021) Maahad Integrasi Tahfiz Sains Banting | PT3: 10A 2B, SPM: 11A <br/>
 - (2022 - 2023) Kolej Matrikulasi Kedah | CGPA: 4.00, MUET: 4.5 <br/>
 - (2023 - Present) Univesiti Teknologi Malaysia - [BACHELOR OF COMPUTER SCIENCE (DATA ENGINEERING) WITH HONOURS](https://github.com/nawwarahauni/SEMESTER_1) <br/>
 
