@@ -1,21 +1,26 @@
-<p align = "center" > 
-     <img src="https://github.com/nawwarahauni/nawwarahauni/assets/148327549/92f77b93-3945-4135-b681-915e7b8c9b09" height="10% width="10%" alt="Panda"/>
-</p><br/>
+<h1 align="center">
+  Hi there, I'm Nawwarah 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
+</h1>
 
-# Hi there, I'm Nawwarah ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br/>
-### You can find me at:
-[![Linkedin Badge](https://img.shields.io/badge/-nawwarahauni-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nawwarah-auni-262895299/) 
-<a href="https://nawwarahauni.github.io/">
-   <img src="https://img.shields.io/badge/-ePortfolio-yellowgreen?style=flat&logoColor=white&labelColor=#0000FF"></a>
-<a href="mailto:nawwarahauni@graduate.utm.my">
-<img src="https://img.shields.io/badge/nawwarahauni@graduate.utm.my-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<p align="center">
+  <img src="https://github.com/nawwarahauni/nawwarahauni/assets/148327549/92f77b93-3945-4135-b681-915e7b8c9b09" width="200px" alt="Panda"/>
+</p>
 
-## 👩‍💻 About me
-📚 I studies Computer Science at UTM <br>
-🌸 I’m passionate and love to learn new things <br>
-🌱 I’m currently learning C++ and HTML <br>
-💬 I'm interested in creating and hosting a website <br/>
-⚡ I love reading in my free time 
+<h3 align="center">You can find me at:</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nawwarah-auni-262895299/"><img src="https://img.shields.io/badge/-nawwarahauni-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://nawwarahauni.github.io/"><img src="https://img.shields.io/badge/-ePortfolio-yellowgreen?style=flat&logoColor=white"/></a> 
+<a href="mailto:nawwarahauni@graduate.utm.my"><img src="https://img.shields.io/badge/nawwarahauni@graduate.utm.my-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+## 👩‍💻 About Me
+📚 I’m a Computer Science student at UTM <br>
+🌸 I aim to work with data and become a Data Engineer, Data Analyst, or Data Scientist <br>
+🌱 I’m interested in how data is collected, processed, analyzed, and transformed into meaningful insights <br>
+🛠️ I enjoy building systems and exploring how data can solve real-world problems <br>
+⚡ I continuously learn new technologies to strengthen both my programming and data skills 
 
 ## :books: Education
 - (2011 - 2016) Sekolah Rendah Agama Integrasi Seksyen 19 | UPSR: 5A 1B <br/>
@@ -30,7 +35,14 @@
 - Treasurer in Computer Science Club (2023)-->
 
 ## ⚙ Skills
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🏆 Courses and certificates
 [SECP1513 - Technology & Information Systems](https://github.com/nawwarahauni/SEMESTER_1/tree/main/Technology%20%26%20Information%20Systems)<br>
