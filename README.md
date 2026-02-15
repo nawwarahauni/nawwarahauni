@@ -17,10 +17,10 @@
 
 ## 👩‍💻 About Me
 📚 I’m a Computer Science student at UTM <br>
-🌸 I aim to work with data and become a Data Engineer, Data Analyst, or Data Scientist <br>
+🌸 I aim to work with data and pursue a career as a Data Engineer, Data Analyst, or Data Scientist <br>
 🌱 I’m interested in how data is collected, processed, analyzed, and transformed into meaningful insights <br>
-🛠️ I enjoy building systems and exploring how data can solve real-world problems <br>
-⚡ I continuously learn new technologies to strengthen both my programming and data skills 
+🛠️ I enjoy building systems and exploring how technology can solve problems <br>
+⚡ I continuously learn new technologies to strengthen both my programming and problem-solving skills 
 
 ## :books: Education
 - (2011 - 2016) Sekolah Rendah Agama Integrasi Seksyen 19 | UPSR: 5A 1B <br/>
